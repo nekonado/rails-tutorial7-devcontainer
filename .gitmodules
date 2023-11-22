@@ -1,0 +1,3 @@
+[submodule "hello_app"]
+	path = hello_app
+	url = git@github.com:nekonado/rails-tutorial-hello-app.git

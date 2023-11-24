@@ -1,6 +1,6 @@
 [submodule "hello_app"]
-	path = hello_app
+	path = 1_hello_app
 	url = git@github.com:nekonado/rails-tutorial-hello-app.git
 [submodule "toy_app"]
-	path = toy_app
+	path = 2_toy_app
 	url = git@github.com:nekonado/rails-tutorial-toy-app.git

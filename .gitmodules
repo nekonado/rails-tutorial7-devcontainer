@@ -4,3 +4,6 @@
 [submodule "toy_app"]
 	path = 2_toy_app
 	url = git@github.com:nekonado/rails-tutorial-toy-app.git
+[submodule "3_sample_app"]
+	path = 3_sample_app
+	url = git@github.com:nekonado/rails-tutorial-sample-app.git
